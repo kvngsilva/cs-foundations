@@ -1,1 +1,2 @@
-print("Hello world — my CS journey starts now 🚀")
+name = "Henry"
+print(f"My name is {name}. I'm building tech + brand 💻👕")
